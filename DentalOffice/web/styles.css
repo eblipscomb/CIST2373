@@ -1,0 +1,87 @@
+/* 
+ *   Class: CIST 2373 Java III
+ * Description: Dental Office Project - style sheet 
+ * Due: 12/5/2017
+ * @author Ellen Lipscomb
+*/
+            
+body {
+    background-color: #aae2ca
+    }               
+            
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-family: arial, times, sans-serif;
+    font-style: normal;
+    font-size: 300%;
+    color: #3b7762;
+    }
+            
+h2 {
+    text-align: center;
+    text-transform:capitalize;
+    font-family: arial, times, sans-serif;
+    font-size: 150%;
+    color: #F9F4E1;
+}
+            
+img {
+    display: block;
+    margin: auto;
+    }
+            
+div {
+    text-align: center;
+    font-size: 20pt;
+}
+
+#green-bar {
+    background-color: #5bb28c;
+    margin:0px auto;
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-family: arial, times, sans-serif;
+    font-size: 100%;
+    color: #F9F4E1;    
+}
+
+#wrapper {
+    width:960px;
+    margin:0px auto;    
+    padding-top:0px;
+    padding-bottom: 40px;
+    background-color: #F9F4E1;
+}
+
+#login-box {
+    width:760px;
+    margin:0px auto;    
+    padding-top:30px;
+    padding-bottom: 40px;
+    background-color: #67bc97;
+}
+
+.link-btn {
+    color: #F9F4E1;
+    background: #3b7762;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: arial, times, sans-serif;
+    font-size: 75%;
+    font-weight: bold;
+    border-radius: 4em;
+}
+
+#Lbox {
+    float: left;
+    width: 460px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 2px solid green;
+}
+
+
+
